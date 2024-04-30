@@ -1,4 +1,4 @@
-# ClassificacaoDeAlunos
+# Classificacao De Alunos (Mini SISU)
  Este repositório é dedicado para um programa para ordenação e classificação de alunos em diferentes cursos baseados na sua nota individual e opção 1 e opção 2 de curso (como um SISU em baixíssima escala). Esta versão foi utilizada como demonstração desta tecnologia para um colégio técnico da minha cidade natal.  
 O código é 100% funcional, mas a configuração dos parâmetros ainda é muito manual. Talvez com o tempo eu atualize e automatize essa seleção.  
 Fiz este programa em duas tardes. Ele não é muito genérico pois foi feito para resolver um problema específico de uma escola. Caso queira modificá-lo ou incrementá-lo, fique à vontade para clonar o repositório, vou tentar descrever o funcionamento dele abaixo.  
