@@ -31,10 +31,6 @@ Path: `./Programa/Oficinas`
 Aqui está contido os resultados da execução do script. Não há necessidade de alterar os dados dessa pasta, aqui é apenas a saída do programa.  
 Dica: Após a execução, copie as pastas para outro local e exclua as já existentes aqui. Facilita a organização.
   
-# Scripts
-Path: `./Programa/Scripts/`  
-Aqui está contido os scrips usados para testar o programa, não importam para a execução do programa, mas resolvi guardá-los caso use pedaços deles em alterações futuras.
-  
 # Tabelas Principais
 Path: `./Programa/Tabelas Principais/`  
 Aqui é onde serão armazenadas as tabelas que serão usadas para executar o script, coloque aqui dentro a tabela que você irá utilizar. É a entrada do programa.  
